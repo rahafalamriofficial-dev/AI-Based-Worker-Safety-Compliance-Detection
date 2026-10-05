@@ -1,6 +1,6 @@
 # AI-Based-Worker-Safety-Compliance-Detection
 
-An AI-based computer vision system that monitors worker safety compliance by detecting whether workers are wearing required PPE (hardhats and safety vests) from images and video.
+An AI-based computer vision system that monitors worker safety compliance by detecting whether workers are wearing required PPE (hardhats and safety vests) from images.
 
 ## Project Structure
 
